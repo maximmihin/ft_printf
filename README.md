@@ -20,7 +20,7 @@ You can try our project with the following commands:
 First, clone the repository
 
 ```shell
-git clone https://github.com/lgaultie/ft_printf
+git clone https://github.com/maximmihin/ft_printf
 cd ft_printf
 make
 ```
@@ -28,7 +28,7 @@ make
 then compile your file with the generated **libftprintf.a** by adding in the main
 
 ```c
-#include "src/ft_printf.h"
+#include "ft_printf.h"
 ```
 
 
