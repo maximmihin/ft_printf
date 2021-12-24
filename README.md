@@ -11,7 +11,7 @@ This project is about recoding the famous printf C function to learn variadic fu
 | **Libft authorized** | yes                                                          |
 | **Description**      | Write a library that contains ft_printf, a function that will mimic the real printf |
 
-For detailed information, refer to the **[subject of this project](https://github.com/maximmihin/ft_printf)**
+For detailed information, refer to the **[subject of this project](https://github.com/maximmihin/ft_printf/blob/main/en.subject.pdf)**
 
 ## Usage
 
